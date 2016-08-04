@@ -1,0 +1,38 @@
+_repo: A-Treatise-on-Good-Works_418
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Reu, Johann Michael
+    aliases:
+    - Reu, J. Michael (Johann Michael)
+    - Reu, Michael
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '447'
+    url: http://www.gutenberg.org/2009/agents/447
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Michael_Reu
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Good works (Theology)'
+- !lcsh 'Lutheran Church -- Doctrines'
+- GITenberg
+title: A Treatise on Good Works
+url: http://www.gutenberg.org/ebooks/418
