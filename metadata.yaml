@@ -1,5 +1,5 @@
 _repo: A-Treatise-on-Good-Works_418
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Reu, Johann Michael
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '447'
     url: http://www.gutenberg.org/2009/agents/447
     wikipedia: http://en.wikipedia.org/wiki/Johann_Michael_Reu
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Luther, Martin
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/418#A-Treatise-on-Good-Works
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
